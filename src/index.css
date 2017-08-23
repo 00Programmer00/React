@@ -1,0 +1,40 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+#users{
+  width:40%;
+  float: right;
+}
+#navigation{
+  margin: 0 auto;
+}
+
+
+#users li{
+  text-align: center;
+  font-size: 18px;
+  font-family: "Comic Sans MS";
+  border-color: black;
+}
+
+#posts{
+  font-size: 17px;
+  font-family: "Comic Sans MS";
+  text-align: justify;
+}
+
+.images{
+  margin-bottom: 30px;
+  height: 280px;
+}
+
+.preview{
+  position: relative;
+  margin-left: 30%;
+}
+
+.Map{
+  height: 100px;
+}
